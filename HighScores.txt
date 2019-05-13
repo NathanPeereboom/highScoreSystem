@@ -1,5 +1,5 @@
-﻿500
-400
-300
-200
-100
+Samuel,500
+Natalie,400
+Faith,300
+Austin,200
+Emily,100
